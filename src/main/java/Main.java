@@ -4,6 +4,8 @@ Dog dog = new Dog();
 dog.makeSound();
 Cat cat = new Cat();
 cat.makeSound();
+cat.eat("Fish");
+dog.eat("Dogfood");
 
     }
 }
